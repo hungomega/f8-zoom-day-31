@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "title": "Hùng",
+      "description": "lười",
+      "category": "development",
+      "priority": "high",
+      "startTime": "14:45",
+      "endTime": "01:45",
+      "dueDate": "2026-09-16",
+      "color": "blue",
+      "isCompleted": false,
+      "id": "OVcMfAIWPfI"
+    },
+    {
+      "title": "Hùng",
+      "description": "Nè",
+      "category": "meeting",
+      "priority": "high",
+      "startTime": "01:00",
+      "endTime": "13:59",
+      "dueDate": "2026-10-02",
+      "color": "purple",
+      "isCompleted": false,
+      "id": "Eha75fxmWLE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
