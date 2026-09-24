@@ -1,4 +1,4 @@
-# 33.3 Day 22: Bài tập về nhà
+41.28 Day 31: Bài tập về nhà
 Cập nhật tháng 6 năm 2025
 
 ## Mục lục
